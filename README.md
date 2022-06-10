@@ -1,4 +1,4 @@
-# ccq_fall/n
+# ccq_fall\n
 train.py结尾有各个参数设置以及相关路径/n
 模型存放在./runs/train/exp /n
 直接运行detect.py预测/n
